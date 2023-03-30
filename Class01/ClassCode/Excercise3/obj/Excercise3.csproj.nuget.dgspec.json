@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\code\\Desktop\\SEDC\\CSharp-Advanced\\CSharp-Advanced\\Class01\\ClassCode\\Excercise3\\Excercise3.csproj": {}
+    "C:\\Users\\code\\Desktop\\SEDC\\CSharp-Advanced\\CSharp-Advanced\\CSharp-Advanced\\Class01\\ClassCode\\Excercise3\\Excercise3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\code\\Desktop\\SEDC\\CSharp-Advanced\\CSharp-Advanced\\Class01\\ClassCode\\Excercise3\\Excercise3.csproj": {
+    "C:\\Users\\code\\Desktop\\SEDC\\CSharp-Advanced\\CSharp-Advanced\\CSharp-Advanced\\Class01\\ClassCode\\Excercise3\\Excercise3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\code\\Desktop\\SEDC\\CSharp-Advanced\\CSharp-Advanced\\Class01\\ClassCode\\Excercise3\\Excercise3.csproj",
+        "projectUniqueName": "C:\\Users\\code\\Desktop\\SEDC\\CSharp-Advanced\\CSharp-Advanced\\CSharp-Advanced\\Class01\\ClassCode\\Excercise3\\Excercise3.csproj",
         "projectName": "Excercise3",
-        "projectPath": "C:\\Users\\code\\Desktop\\SEDC\\CSharp-Advanced\\CSharp-Advanced\\Class01\\ClassCode\\Excercise3\\Excercise3.csproj",
+        "projectPath": "C:\\Users\\code\\Desktop\\SEDC\\CSharp-Advanced\\CSharp-Advanced\\CSharp-Advanced\\Class01\\ClassCode\\Excercise3\\Excercise3.csproj",
         "packagesPath": "C:\\Users\\code\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\code\\Desktop\\SEDC\\CSharp-Advanced\\CSharp-Advanced\\Class01\\ClassCode\\Excercise3\\obj\\",
+        "outputPath": "C:\\Users\\code\\Desktop\\SEDC\\CSharp-Advanced\\CSharp-Advanced\\CSharp-Advanced\\Class01\\ClassCode\\Excercise3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\code\\AppData\\Roaming\\NuGet\\NuGet.Config",

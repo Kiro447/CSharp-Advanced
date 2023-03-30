@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\code\\Desktop\\SEDC\\CSharp-Advanced\\CSharp-Advanced\\Class01\\ClassCode\\ClassCode\\ClassCode.csproj": {}
+    "C:\\Users\\code\\Desktop\\SEDC\\CSharp-Advanced\\CSharp-Advanced\\CSharp-Advanced\\Class01\\ClassCode\\ClassCode\\ClassCode.csproj": {}
   },
   "projects": {
-    "C:\\Users\\code\\Desktop\\SEDC\\CSharp-Advanced\\CSharp-Advanced\\Class01\\ClassCode\\ClassCode\\ClassCode.csproj": {
+    "C:\\Users\\code\\Desktop\\SEDC\\CSharp-Advanced\\CSharp-Advanced\\CSharp-Advanced\\Class01\\ClassCode\\ClassCode\\ClassCode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\code\\Desktop\\SEDC\\CSharp-Advanced\\CSharp-Advanced\\Class01\\ClassCode\\ClassCode\\ClassCode.csproj",
+        "projectUniqueName": "C:\\Users\\code\\Desktop\\SEDC\\CSharp-Advanced\\CSharp-Advanced\\CSharp-Advanced\\Class01\\ClassCode\\ClassCode\\ClassCode.csproj",
         "projectName": "ClassCode",
-        "projectPath": "C:\\Users\\code\\Desktop\\SEDC\\CSharp-Advanced\\CSharp-Advanced\\Class01\\ClassCode\\ClassCode\\ClassCode.csproj",
+        "projectPath": "C:\\Users\\code\\Desktop\\SEDC\\CSharp-Advanced\\CSharp-Advanced\\CSharp-Advanced\\Class01\\ClassCode\\ClassCode\\ClassCode.csproj",
         "packagesPath": "C:\\Users\\code\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\code\\Desktop\\SEDC\\CSharp-Advanced\\CSharp-Advanced\\Class01\\ClassCode\\ClassCode\\obj\\",
+        "outputPath": "C:\\Users\\code\\Desktop\\SEDC\\CSharp-Advanced\\CSharp-Advanced\\CSharp-Advanced\\Class01\\ClassCode\\ClassCode\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\code\\AppData\\Roaming\\NuGet\\NuGet.Config",

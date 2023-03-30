@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\code\\Desktop\\SEDC\\CSharp-Advanced\\CSharp-Advanced\\Class01\\ClassCode\\Excercise2\\Excercise2.csproj",
+      "projectUniqueName": "C:\\Users\\code\\Desktop\\SEDC\\CSharp-Advanced\\CSharp-Advanced\\CSharp-Advanced\\Class01\\ClassCode\\Excercise2\\Excercise2.csproj",
       "projectName": "Excercise2",
-      "projectPath": "C:\\Users\\code\\Desktop\\SEDC\\CSharp-Advanced\\CSharp-Advanced\\Class01\\ClassCode\\Excercise2\\Excercise2.csproj",
+      "projectPath": "C:\\Users\\code\\Desktop\\SEDC\\CSharp-Advanced\\CSharp-Advanced\\CSharp-Advanced\\Class01\\ClassCode\\Excercise2\\Excercise2.csproj",
       "packagesPath": "C:\\Users\\code\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\code\\Desktop\\SEDC\\CSharp-Advanced\\CSharp-Advanced\\Class01\\ClassCode\\Excercise2\\obj\\",
+      "outputPath": "C:\\Users\\code\\Desktop\\SEDC\\CSharp-Advanced\\CSharp-Advanced\\CSharp-Advanced\\Class01\\ClassCode\\Excercise2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\code\\AppData\\Roaming\\NuGet\\NuGet.Config",
