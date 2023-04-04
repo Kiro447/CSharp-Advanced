@@ -1,0 +1,15 @@
+C:\Users\code\Desktop\SEDC\CSharp-Advanced\CSharp-Advanced\CSharp-Advanced\Class02\ClassCode\ClassCode\bin\Debug\net6.0\ClassCode.exe
+C:\Users\code\Desktop\SEDC\CSharp-Advanced\CSharp-Advanced\CSharp-Advanced\Class02\ClassCode\ClassCode\bin\Debug\net6.0\ClassCode.deps.json
+C:\Users\code\Desktop\SEDC\CSharp-Advanced\CSharp-Advanced\CSharp-Advanced\Class02\ClassCode\ClassCode\bin\Debug\net6.0\ClassCode.runtimeconfig.json
+C:\Users\code\Desktop\SEDC\CSharp-Advanced\CSharp-Advanced\CSharp-Advanced\Class02\ClassCode\ClassCode\bin\Debug\net6.0\ClassCode.dll
+C:\Users\code\Desktop\SEDC\CSharp-Advanced\CSharp-Advanced\CSharp-Advanced\Class02\ClassCode\ClassCode\bin\Debug\net6.0\ClassCode.pdb
+C:\Users\code\Desktop\SEDC\CSharp-Advanced\CSharp-Advanced\CSharp-Advanced\Class02\ClassCode\ClassCode\obj\Debug\net6.0\ClassCode.csproj.AssemblyReference.cache
+C:\Users\code\Desktop\SEDC\CSharp-Advanced\CSharp-Advanced\CSharp-Advanced\Class02\ClassCode\ClassCode\obj\Debug\net6.0\ClassCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\code\Desktop\SEDC\CSharp-Advanced\CSharp-Advanced\CSharp-Advanced\Class02\ClassCode\ClassCode\obj\Debug\net6.0\ClassCode.AssemblyInfoInputs.cache
+C:\Users\code\Desktop\SEDC\CSharp-Advanced\CSharp-Advanced\CSharp-Advanced\Class02\ClassCode\ClassCode\obj\Debug\net6.0\ClassCode.AssemblyInfo.cs
+C:\Users\code\Desktop\SEDC\CSharp-Advanced\CSharp-Advanced\CSharp-Advanced\Class02\ClassCode\ClassCode\obj\Debug\net6.0\ClassCode.csproj.CoreCompileInputs.cache
+C:\Users\code\Desktop\SEDC\CSharp-Advanced\CSharp-Advanced\CSharp-Advanced\Class02\ClassCode\ClassCode\obj\Debug\net6.0\ClassCode.dll
+C:\Users\code\Desktop\SEDC\CSharp-Advanced\CSharp-Advanced\CSharp-Advanced\Class02\ClassCode\ClassCode\obj\Debug\net6.0\refint\ClassCode.dll
+C:\Users\code\Desktop\SEDC\CSharp-Advanced\CSharp-Advanced\CSharp-Advanced\Class02\ClassCode\ClassCode\obj\Debug\net6.0\ClassCode.pdb
+C:\Users\code\Desktop\SEDC\CSharp-Advanced\CSharp-Advanced\CSharp-Advanced\Class02\ClassCode\ClassCode\obj\Debug\net6.0\ClassCode.genruntimeconfig.cache
+C:\Users\code\Desktop\SEDC\CSharp-Advanced\CSharp-Advanced\CSharp-Advanced\Class02\ClassCode\ClassCode\obj\Debug\net6.0\ref\ClassCode.dll
