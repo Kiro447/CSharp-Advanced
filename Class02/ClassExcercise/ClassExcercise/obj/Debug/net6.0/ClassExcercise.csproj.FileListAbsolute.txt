@@ -1,0 +1,15 @@
+C:\Users\code\Desktop\SEDC\CSharp-Advanced\CSharp-Advanced\CSharp-Advanced\Class02\ClassExcercise\ClassExcercise\bin\Debug\net6.0\ClassExcercise.exe
+C:\Users\code\Desktop\SEDC\CSharp-Advanced\CSharp-Advanced\CSharp-Advanced\Class02\ClassExcercise\ClassExcercise\bin\Debug\net6.0\ClassExcercise.deps.json
+C:\Users\code\Desktop\SEDC\CSharp-Advanced\CSharp-Advanced\CSharp-Advanced\Class02\ClassExcercise\ClassExcercise\bin\Debug\net6.0\ClassExcercise.runtimeconfig.json
+C:\Users\code\Desktop\SEDC\CSharp-Advanced\CSharp-Advanced\CSharp-Advanced\Class02\ClassExcercise\ClassExcercise\bin\Debug\net6.0\ClassExcercise.dll
+C:\Users\code\Desktop\SEDC\CSharp-Advanced\CSharp-Advanced\CSharp-Advanced\Class02\ClassExcercise\ClassExcercise\bin\Debug\net6.0\ClassExcercise.pdb
+C:\Users\code\Desktop\SEDC\CSharp-Advanced\CSharp-Advanced\CSharp-Advanced\Class02\ClassExcercise\ClassExcercise\obj\Debug\net6.0\ClassExcercise.csproj.AssemblyReference.cache
+C:\Users\code\Desktop\SEDC\CSharp-Advanced\CSharp-Advanced\CSharp-Advanced\Class02\ClassExcercise\ClassExcercise\obj\Debug\net6.0\ClassExcercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\code\Desktop\SEDC\CSharp-Advanced\CSharp-Advanced\CSharp-Advanced\Class02\ClassExcercise\ClassExcercise\obj\Debug\net6.0\ClassExcercise.AssemblyInfoInputs.cache
+C:\Users\code\Desktop\SEDC\CSharp-Advanced\CSharp-Advanced\CSharp-Advanced\Class02\ClassExcercise\ClassExcercise\obj\Debug\net6.0\ClassExcercise.AssemblyInfo.cs
+C:\Users\code\Desktop\SEDC\CSharp-Advanced\CSharp-Advanced\CSharp-Advanced\Class02\ClassExcercise\ClassExcercise\obj\Debug\net6.0\ClassExcercise.csproj.CoreCompileInputs.cache
+C:\Users\code\Desktop\SEDC\CSharp-Advanced\CSharp-Advanced\CSharp-Advanced\Class02\ClassExcercise\ClassExcercise\obj\Debug\net6.0\ClassExcercise.dll
+C:\Users\code\Desktop\SEDC\CSharp-Advanced\CSharp-Advanced\CSharp-Advanced\Class02\ClassExcercise\ClassExcercise\obj\Debug\net6.0\refint\ClassExcercise.dll
+C:\Users\code\Desktop\SEDC\CSharp-Advanced\CSharp-Advanced\CSharp-Advanced\Class02\ClassExcercise\ClassExcercise\obj\Debug\net6.0\ClassExcercise.pdb
+C:\Users\code\Desktop\SEDC\CSharp-Advanced\CSharp-Advanced\CSharp-Advanced\Class02\ClassExcercise\ClassExcercise\obj\Debug\net6.0\ClassExcercise.genruntimeconfig.cache
+C:\Users\code\Desktop\SEDC\CSharp-Advanced\CSharp-Advanced\CSharp-Advanced\Class02\ClassExcercise\ClassExcercise\obj\Debug\net6.0\ref\ClassExcercise.dll
