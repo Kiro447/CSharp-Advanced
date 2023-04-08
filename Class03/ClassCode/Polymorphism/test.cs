@@ -8,17 +8,21 @@ namespace Polymorphism
 {
     internal class test
     {
-        void Eat()
+        public void Eat()
         {
             Console.WriteLine("Eat kebap");
         }
-        void Eat(string food)
+        public void Eat(string food)
         {
             Console.WriteLine($"Eating {food}");
         }
-        void Eat(string food, int kg)
+        public void Eat(string food, int kg)
         {
-            Console.WriteLine($"Eating {food} it is {kg}kg");
+            Console.WriteLine($"Eating {kg}kg {food}.");
+        }
+        public void Eat(int kg , string food)
+        {
+            Console.WriteLine("king");
         }
     }
 }

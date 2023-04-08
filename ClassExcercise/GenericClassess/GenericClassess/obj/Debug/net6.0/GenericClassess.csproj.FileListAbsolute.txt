@@ -1,0 +1,15 @@
+C:\Users\code\Desktop\SEDC\CSharp-Advanced\CSharp-Advanced\CSharp-Advanced\ClassExcercise\GenericClassess\GenericClassess\bin\Debug\net6.0\GenericClassess.exe
+C:\Users\code\Desktop\SEDC\CSharp-Advanced\CSharp-Advanced\CSharp-Advanced\ClassExcercise\GenericClassess\GenericClassess\bin\Debug\net6.0\GenericClassess.deps.json
+C:\Users\code\Desktop\SEDC\CSharp-Advanced\CSharp-Advanced\CSharp-Advanced\ClassExcercise\GenericClassess\GenericClassess\bin\Debug\net6.0\GenericClassess.runtimeconfig.json
+C:\Users\code\Desktop\SEDC\CSharp-Advanced\CSharp-Advanced\CSharp-Advanced\ClassExcercise\GenericClassess\GenericClassess\bin\Debug\net6.0\GenericClassess.dll
+C:\Users\code\Desktop\SEDC\CSharp-Advanced\CSharp-Advanced\CSharp-Advanced\ClassExcercise\GenericClassess\GenericClassess\bin\Debug\net6.0\GenericClassess.pdb
+C:\Users\code\Desktop\SEDC\CSharp-Advanced\CSharp-Advanced\CSharp-Advanced\ClassExcercise\GenericClassess\GenericClassess\obj\Debug\net6.0\GenericClassess.csproj.AssemblyReference.cache
+C:\Users\code\Desktop\SEDC\CSharp-Advanced\CSharp-Advanced\CSharp-Advanced\ClassExcercise\GenericClassess\GenericClassess\obj\Debug\net6.0\GenericClassess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\code\Desktop\SEDC\CSharp-Advanced\CSharp-Advanced\CSharp-Advanced\ClassExcercise\GenericClassess\GenericClassess\obj\Debug\net6.0\GenericClassess.AssemblyInfoInputs.cache
+C:\Users\code\Desktop\SEDC\CSharp-Advanced\CSharp-Advanced\CSharp-Advanced\ClassExcercise\GenericClassess\GenericClassess\obj\Debug\net6.0\GenericClassess.AssemblyInfo.cs
+C:\Users\code\Desktop\SEDC\CSharp-Advanced\CSharp-Advanced\CSharp-Advanced\ClassExcercise\GenericClassess\GenericClassess\obj\Debug\net6.0\GenericClassess.csproj.CoreCompileInputs.cache
+C:\Users\code\Desktop\SEDC\CSharp-Advanced\CSharp-Advanced\CSharp-Advanced\ClassExcercise\GenericClassess\GenericClassess\obj\Debug\net6.0\GenericClassess.dll
+C:\Users\code\Desktop\SEDC\CSharp-Advanced\CSharp-Advanced\CSharp-Advanced\ClassExcercise\GenericClassess\GenericClassess\obj\Debug\net6.0\refint\GenericClassess.dll
+C:\Users\code\Desktop\SEDC\CSharp-Advanced\CSharp-Advanced\CSharp-Advanced\ClassExcercise\GenericClassess\GenericClassess\obj\Debug\net6.0\GenericClassess.pdb
+C:\Users\code\Desktop\SEDC\CSharp-Advanced\CSharp-Advanced\CSharp-Advanced\ClassExcercise\GenericClassess\GenericClassess\obj\Debug\net6.0\GenericClassess.genruntimeconfig.cache
+C:\Users\code\Desktop\SEDC\CSharp-Advanced\CSharp-Advanced\CSharp-Advanced\ClassExcercise\GenericClassess\GenericClassess\obj\Debug\net6.0\ref\GenericClassess.dll

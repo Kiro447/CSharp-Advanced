@@ -1,2 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿void Eat()
+{
+    Console.WriteLine("Eat kebap");
+}
+void Eat(string food)
+{
+    Console.WriteLine($"Eating {food}");
+}
+
+Eat();
