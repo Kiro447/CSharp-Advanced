@@ -1,0 +1,15 @@
+C:\Users\code\Desktop\SEDC\CSharp-Advanced\CSharp-Advanced\CSharp-Advanced\Class05\TaxiManagerApp9000\TaxiManager\bin\Debug\net6.0\TaxiManagerApp9000.App.exe
+C:\Users\code\Desktop\SEDC\CSharp-Advanced\CSharp-Advanced\CSharp-Advanced\Class05\TaxiManagerApp9000\TaxiManager\bin\Debug\net6.0\TaxiManagerApp9000.App.deps.json
+C:\Users\code\Desktop\SEDC\CSharp-Advanced\CSharp-Advanced\CSharp-Advanced\Class05\TaxiManagerApp9000\TaxiManager\bin\Debug\net6.0\TaxiManagerApp9000.App.runtimeconfig.json
+C:\Users\code\Desktop\SEDC\CSharp-Advanced\CSharp-Advanced\CSharp-Advanced\Class05\TaxiManagerApp9000\TaxiManager\bin\Debug\net6.0\TaxiManagerApp9000.App.dll
+C:\Users\code\Desktop\SEDC\CSharp-Advanced\CSharp-Advanced\CSharp-Advanced\Class05\TaxiManagerApp9000\TaxiManager\bin\Debug\net6.0\TaxiManagerApp9000.App.pdb
+C:\Users\code\Desktop\SEDC\CSharp-Advanced\CSharp-Advanced\CSharp-Advanced\Class05\TaxiManagerApp9000\TaxiManager\obj\Debug\net6.0\TaxiManagerApp9000.App.csproj.AssemblyReference.cache
+C:\Users\code\Desktop\SEDC\CSharp-Advanced\CSharp-Advanced\CSharp-Advanced\Class05\TaxiManagerApp9000\TaxiManager\obj\Debug\net6.0\TaxiManagerApp9000.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\code\Desktop\SEDC\CSharp-Advanced\CSharp-Advanced\CSharp-Advanced\Class05\TaxiManagerApp9000\TaxiManager\obj\Debug\net6.0\TaxiManagerApp9000.App.AssemblyInfoInputs.cache
+C:\Users\code\Desktop\SEDC\CSharp-Advanced\CSharp-Advanced\CSharp-Advanced\Class05\TaxiManagerApp9000\TaxiManager\obj\Debug\net6.0\TaxiManagerApp9000.App.AssemblyInfo.cs
+C:\Users\code\Desktop\SEDC\CSharp-Advanced\CSharp-Advanced\CSharp-Advanced\Class05\TaxiManagerApp9000\TaxiManager\obj\Debug\net6.0\TaxiManagerApp9000.App.csproj.CoreCompileInputs.cache
+C:\Users\code\Desktop\SEDC\CSharp-Advanced\CSharp-Advanced\CSharp-Advanced\Class05\TaxiManagerApp9000\TaxiManager\obj\Debug\net6.0\TaxiManagerApp9000.App.dll
+C:\Users\code\Desktop\SEDC\CSharp-Advanced\CSharp-Advanced\CSharp-Advanced\Class05\TaxiManagerApp9000\TaxiManager\obj\Debug\net6.0\refint\TaxiManagerApp9000.App.dll
+C:\Users\code\Desktop\SEDC\CSharp-Advanced\CSharp-Advanced\CSharp-Advanced\Class05\TaxiManagerApp9000\TaxiManager\obj\Debug\net6.0\TaxiManagerApp9000.App.pdb
+C:\Users\code\Desktop\SEDC\CSharp-Advanced\CSharp-Advanced\CSharp-Advanced\Class05\TaxiManagerApp9000\TaxiManager\obj\Debug\net6.0\TaxiManagerApp9000.App.genruntimeconfig.cache
+C:\Users\code\Desktop\SEDC\CSharp-Advanced\CSharp-Advanced\CSharp-Advanced\Class05\TaxiManagerApp9000\TaxiManager\obj\Debug\net6.0\ref\TaxiManagerApp9000.App.dll
