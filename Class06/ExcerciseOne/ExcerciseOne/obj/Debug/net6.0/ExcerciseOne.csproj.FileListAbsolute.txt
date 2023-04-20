@@ -1,0 +1,15 @@
+C:\Users\code\Desktop\SEDC\CSharp-Advanced\CSharp-Advanced\CSharp-Advanced\Class06\ExcerciseOne\ExcerciseOne\bin\Debug\net6.0\ExcerciseOne.exe
+C:\Users\code\Desktop\SEDC\CSharp-Advanced\CSharp-Advanced\CSharp-Advanced\Class06\ExcerciseOne\ExcerciseOne\bin\Debug\net6.0\ExcerciseOne.deps.json
+C:\Users\code\Desktop\SEDC\CSharp-Advanced\CSharp-Advanced\CSharp-Advanced\Class06\ExcerciseOne\ExcerciseOne\bin\Debug\net6.0\ExcerciseOne.runtimeconfig.json
+C:\Users\code\Desktop\SEDC\CSharp-Advanced\CSharp-Advanced\CSharp-Advanced\Class06\ExcerciseOne\ExcerciseOne\bin\Debug\net6.0\ExcerciseOne.dll
+C:\Users\code\Desktop\SEDC\CSharp-Advanced\CSharp-Advanced\CSharp-Advanced\Class06\ExcerciseOne\ExcerciseOne\bin\Debug\net6.0\ExcerciseOne.pdb
+C:\Users\code\Desktop\SEDC\CSharp-Advanced\CSharp-Advanced\CSharp-Advanced\Class06\ExcerciseOne\ExcerciseOne\obj\Debug\net6.0\ExcerciseOne.csproj.AssemblyReference.cache
+C:\Users\code\Desktop\SEDC\CSharp-Advanced\CSharp-Advanced\CSharp-Advanced\Class06\ExcerciseOne\ExcerciseOne\obj\Debug\net6.0\ExcerciseOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\code\Desktop\SEDC\CSharp-Advanced\CSharp-Advanced\CSharp-Advanced\Class06\ExcerciseOne\ExcerciseOne\obj\Debug\net6.0\ExcerciseOne.AssemblyInfoInputs.cache
+C:\Users\code\Desktop\SEDC\CSharp-Advanced\CSharp-Advanced\CSharp-Advanced\Class06\ExcerciseOne\ExcerciseOne\obj\Debug\net6.0\ExcerciseOne.AssemblyInfo.cs
+C:\Users\code\Desktop\SEDC\CSharp-Advanced\CSharp-Advanced\CSharp-Advanced\Class06\ExcerciseOne\ExcerciseOne\obj\Debug\net6.0\ExcerciseOne.csproj.CoreCompileInputs.cache
+C:\Users\code\Desktop\SEDC\CSharp-Advanced\CSharp-Advanced\CSharp-Advanced\Class06\ExcerciseOne\ExcerciseOne\obj\Debug\net6.0\ExcerciseOne.dll
+C:\Users\code\Desktop\SEDC\CSharp-Advanced\CSharp-Advanced\CSharp-Advanced\Class06\ExcerciseOne\ExcerciseOne\obj\Debug\net6.0\refint\ExcerciseOne.dll
+C:\Users\code\Desktop\SEDC\CSharp-Advanced\CSharp-Advanced\CSharp-Advanced\Class06\ExcerciseOne\ExcerciseOne\obj\Debug\net6.0\ExcerciseOne.pdb
+C:\Users\code\Desktop\SEDC\CSharp-Advanced\CSharp-Advanced\CSharp-Advanced\Class06\ExcerciseOne\ExcerciseOne\obj\Debug\net6.0\ExcerciseOne.genruntimeconfig.cache
+C:\Users\code\Desktop\SEDC\CSharp-Advanced\CSharp-Advanced\CSharp-Advanced\Class06\ExcerciseOne\ExcerciseOne\obj\Debug\net6.0\ref\ExcerciseOne.dll

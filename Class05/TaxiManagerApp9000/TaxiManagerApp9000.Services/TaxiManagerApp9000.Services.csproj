@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\TasManagerApp9000.DataAccess\TasManagerApp9000.DataAccess.csproj" />
+    <ProjectReference Include="..\TaxiManagerApp9000.Domain\TaxiManagerApp9000.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
