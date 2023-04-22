@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Class09</id>
+    <version>1.0.0</version>
+    <authors>Class09</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\code\Desktop\SEDC\CSharp-Advanced\CSharp-Advanced\CSharp-Advanced\Class09\Class09\bin\Debug\net6.0\Class09.runtimeconfig.json" target="lib\net6.0\Class09.runtimeconfig.json" />
+    <file src="C:\Users\code\Desktop\SEDC\CSharp-Advanced\CSharp-Advanced\CSharp-Advanced\Class09\Class09\bin\Debug\net6.0\Class09.dll" target="lib\net6.0\Class09.dll" />
+  </files>
+</package>

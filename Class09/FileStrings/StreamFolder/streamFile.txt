@@ -1,0 +1,4 @@
+I am writing in the file with StreamWriter
+Hello we are in the USING
+PA PA PAP A
+Team team team

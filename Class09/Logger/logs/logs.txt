@@ -1,0 +1,18 @@
+Time: 22.04.2023 11:11
+[###ERROR MESSAGE]: Invalid login for kiro447 was not found.
+---------------------------------------
+Time: 22.04.2023 11:54
+[###Info Message]: Trying to log in a user with username: 123
+---------------------------------------
+Time: 22.04.2023 11:54
+[###ERROR MESSAGE]: Invalid login for 123 was not found.
+---------------------------------------
+Time: 22.04.2023 11:19
+[###Info Message]: Trying to log in a user with username: blabla
+---------------------------------------
+Time: 22.04.2023 11:19
+[###ERROR MESSAGE]: Invalid login for blabla was not found.
+---------------------------------------
+Time: 22.04.2023 11:23
+[###Info Message]: Trying to log in a user with username: kiro447
+---------------------------------------
